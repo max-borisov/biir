@@ -1,0 +1,397 @@
+/* ////////////////////BIIR website designed and created by Morten Wagener///////////////////////////////////////// */
+
+
+
+/* HEADINGS LINKS */
+
+
+.SectionsTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+}
+
+
+/* ///////////////////////////////////////////////////////////////////////// */
+
+
+
+
+/* ALL PAGES */
+
+
+.SubHeadline {
+	font-size: 45px;
+	font-style: normal;
+	color: #000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.SubHeadlineBlue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	color: #35c3e4;
+	font-weight: bold;
+}
+
+.ALL-PAGE-TXT-01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 22px;
+	text-align: left;
+
+}
+
+
+.ALL-mail-link-right {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color:#35c3e4;
+	line-height: normal;
+	text-align: left;
+}
+
+
+.ALL-link-subpage {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color:#333;
+	line-height: normal;
+	text-align: left;
+}
+
+/* ///////////////////////////////////////////////////////////////////////// */
+
+
+/* INDEX */
+
+.INDEX-01-BLUE {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #35c3e4;
+	line-height: 20px;
+}
+
+.INDEX-01-GREY {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #333;
+	line-height: 20px;
+}
+
+.IndexHeadlineBlack {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 38px;
+	font-weight: normal;
+	color: #333;
+}
+
+/* ///////////////////////////////////////////////////////////////////////// */
+
+/* ABOUT US */
+
+
+
+.AboutUS {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #333;
+	font-style: italic;
+	text-align: right;
+}
+
+.AboutUS-BOLD {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333;
+	font-style: italic;
+	text-align: right;
+}
+
+/* ///////////////////////////////////////////////////////////////////////// */
+
+
+/* SERVICES */
+
+
+.Services-01 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 16px;
+}
+
+.Services-02 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #35c3e4;
+	line-height: 20px;
+}
+
+
+.Services-03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666;
+	font-weight: normal;
+	line-height: 12px;
+}
+
+
+/* ///////////////////////////////////////////////////////////////////////// */
+
+
+/* WORK */
+
+.WORK-HEADER {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	color: #333;
+	font-weight: normal;
+	line-height: 22px;
+}
+
+.WORK-TXT {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #333;
+	font-style: italic;
+	text-align: left;
+}
+
+
+
+
+
+
+
+/* VIDEO */
+
+
+#Video-JohnT {
+	height: auto;
+	width: 600px;
+
+}
+
+
+
+
+
+
+.WindHeadBlack {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: normal;
+	color: #333;
+}
+.WindHeadBlueLg {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 32px;
+	font-weight: normal;
+	color: #35c3e4;
+}
+
+.WindHeadBlue {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #35c3e4;
+}
+
+.WindSide {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #333;
+	font-style: italic;
+}
+
+
+.WindBullets {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 25px;
+}
+
+.WindGoToTop {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 10px;
+	color: #333;
+	line-height: 10px;
+}
+
+.WindGoToTop_2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #35c3e4;
+}
+
+
+
+.IndexHeadlineBlue {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 38px;
+	color: #35c3e4;
+}
+
+.SectionsHeadline {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	color: #666;
+}
+
+.SectionsHeadlinetest {
+	font-size: 70px;
+	color: #666;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.SectionsHeadlineActive {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 22px;
+	color: #35c3e4;
+}
+
+
+
+.SubStatements {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #666;
+	line-height: 30px;
+}
+
+.SubStatements2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+	font-weight: normal;
+	color: #333;
+	font-style: italic;
+}
+
+
+
+.ContentHeadline {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	color: #CCC;
+	font-weight: bold;
+}
+
+.ContentHeadlineBlue {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #	;
+	font-weight: normal;
+}
+
+.Content {
+	font-size: 30px;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.ContentBlue {
+	font-size: 20px;
+	color: #35c3e4;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.Content2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: #333;
+	line-height: 30px;
+}
+
+.Footer01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+}
+
+.Footer02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #333;
+}
+.Footer03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color:#35c3e4;
+}
+
+.Footer04 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333;
+}
+
+.FooterLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	font-weight: normal;
+}
+
+.FooterLinksCurrent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	font-weight: bold;
+}
+
+.PeopleHeadline {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+}
+
+.People {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+}
+
+.People2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color:#35c3e4;
+}
+
+table tr td span#ukr {
+    font-weight: bold;
+    font-size: 4em;
+    letter-spacing: 10px;
+}
+
+Subpage headline {
+	font-weight: normal;
+}
+
